@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @burtonhollifield
 - 👀 I’m interested in Finance and Education
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: burtonh@andrew.cmu.edu
 
 <!---
